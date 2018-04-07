@@ -1,4 +1,5 @@
 # jemdoc: showsource
+# build command: jemdoc -c mysite.conf index.jemdoc
 = Ioannis Papavasileiou
 
 ~~~
