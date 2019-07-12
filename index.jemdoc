@@ -4,42 +4,31 @@
 
 ~~~
 {}{img_left}{ioannis.jpg}{A picture of me}
-[https://papabasile.github.io/ Ioannis Papavasileiou], Ph.D. Candidate\n
-[https://www.cse.uconn.edu/ Department of Computer Science & Engineering (CSE)]\n
-[http://www.uconn.edu/ University of Connecticut (Uconn)]\n\n
-Advisor: [http://www.engr.uconn.edu/~song/ Song Han]
+[https://papabasile.github.io/ Ioannis Papavasileiou], Ph.D.\n
 
 ~~~
 
 == Contact
 
-E-mail: $ioannis.papavasileiou@uconn.edu$ \n
-
 {{<a href="http://www.linkedin.com/in/ioannis-papavasileiou/">
 <img src="http://www.linkedin.com/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Ioannis Papavasileiou's profile on LinkedIn"></a>}}
 \n
 
-== Education
+== Experience
+*[http://www.corning.com/ Corning Inc]*\n
+Machine Learning Modeling Engineer, September 2018 - Present\n
 
-- Ph.D. in Computer Science & Engineering (Expected July 2018)\n
-[http://www.cse.uconn.edu/ Department of Computer Science & Engineering],
-[http://www.uconn.edu/ University of Connecticut], Storrs CT, USA\n
-- B.Eng. in Computer Engineering & Informatics (June 2011)\n
-[http://www.ceid.upatras.gr/en/ Computer Engineering & Informatics Department], [http://www.upatras.gr/en University of Patras], Patra, Greece
-
-== Academic Experience
 *[http://www.uconn.edu/ University of Connecticut], Storrs, CT*\n
-Research Assistant, August 2012 – Present\n
+Research Assistant, August 2012 – August 2018\n
 - Research healthcare and human computer interaction problems, such as gait analysis, classification and clustering of patient data, biometic authentication and activity recognition
 - Conduct data analysis, feature engineering and machine learning modeling, including study of multimodal motion sensor data, biomarker, physiological, and big data
 - Develop real-time and data-driven methods leveraging supervised and unsupervised learning, including multi-task learning, neural networks, deep auto-encoders, parallel particle filters, and non-parametric Bayesian methods
 - Present research in interdisciplinary teams and at leading international conferences\n
 
-Teaching Assistant,September 2014– Present\n
+Teaching Assistant,September 2014– August 2018\n
 - Instruct lab sections for Matlab and Scheme programming languages
 - Tutor students and grade assignments and exams
 
-== Work Experience
 *[http://www.cti.gr/en/ Research Academic Computer Technology Institute], Patras, Greece*\n
 Research Associate, (October 2011 - July 2012)\n
 - [http://ru1.cti.gr/index.php/software-a-systems/5-general-software/157-android-application Biomedical Application Development], Developed mobile software for Android and an embedded wireless ECG sensor to monitor heart disease patients. Available on [http://play.google.com/store/apps/details?id=com.abimed.ecg Google Play App store], with more than *10,000 downloads*.\n
@@ -48,6 +37,15 @@ Research Associate, (October 2011 - July 2012)\n
 Full Stack Web Development, (January 2011 - April 2011)
 - Designed and developed webpages and maintained server and client side
 - Optimized database systems with 50% reduction in DB size by cleaning broken records
+
+== Education
+
+- Ph.D. in Computer Science & Engineering (Expected July 2018)\n
+[http://www.cse.uconn.edu/ Department of Computer Science & Engineering],
+[http://www.uconn.edu/ University of Connecticut], Storrs CT, USA\n
+Advisor: [http://www.engr.uconn.edu/~song/ Song Han]\n
+- B.Eng. in Computer Engineering & Informatics (June 2011)\n
+[http://www.ceid.upatras.gr/en/ Computer Engineering & Informatics Department], [http://www.upatras.gr/en University of Patras], Patra, Greece
 
 == Publications
 
